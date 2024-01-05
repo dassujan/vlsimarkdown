@@ -72,7 +72,8 @@ The pinch-off condition effectively controls the flow of current between the sou
 Ans:
 ![Capture1](https://github.com/dassujan/mdfile/assets/68176251/a2d0408d-fa88-4c1f-87e8-31f9dc27e990)
 
-![Capture1](https://github.com/dassujan/mdfile/assets/68176251/b83b6bb6-f078-4838-8a37-be8a30c71aa6)
+![Capture1](https://github.com/dassujan/vlsimarkdown/assets/68176251/53664521-31a4-49f4-98c3-d8dd7fade7ad)
+
 
 ### Describe the VLSI design flow with proper circuit diagram?
 Ans: The VLSI (Very Large Scale Integration) design flow involves several steps to create an integrated circuit. Here's an overview along with a simplified circuit diagram:
