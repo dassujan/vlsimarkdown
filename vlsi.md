@@ -69,8 +69,7 @@ The pinch-off condition effectively controls the flow of current between the sou
 
 ### Describe the MOSFET threshold voltage equation Vth?
 
-Ans:
-![Capture1](https://github.com/dassujan/mdfile/assets/68176251/a2d0408d-fa88-4c1f-87e8-31f9dc27e990)
+![Capture1](https://github.com/dassujan/vlsimarkdown/assets/68176251/b99466c6-de3e-4404-904d-8f94dae1b203)
 
 ![Capture1](https://github.com/dassujan/vlsimarkdown/assets/68176251/53664521-31a4-49f4-98c3-d8dd7fade7ad)
 
